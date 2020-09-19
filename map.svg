@@ -272,17 +272,17 @@
      inkscape:snap-page="true"
      inkscape:snap-grids="true"
      inkscape:window-maximized="0"
-     inkscape:window-y="487"
-     inkscape:window-x="1437"
+     inkscape:window-y="346"
+     inkscape:window-x="1387"
      inkscape:window-height="1603"
      inkscape:window-width="2403"
      showgrid="true"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="687.0482"
-     inkscape:cx="403.56514"
-     inkscape:zoom="1.979899"
+     inkscape:cy="518.74281"
+     inkscape:cx="534.16004"
+     inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -322,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7136,14 +7136,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352777px;line-height:1.25;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.0264583"
-       x="7.6214108"
-       y="-15.645798"
-       id="text2556-4-0-4"
-       transform="rotate(90)"><tspan
+       x="15.609074"
+       y="7.9958177"
+       id="text2556-4-0-4"><tspan
          sodipodi:role="line"
          id="tspan2554-3-1-5"
-         x="7.6214108"
-         y="-15.645798"
+         x="15.609074"
+         y="7.9958177"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.352777px;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0264583">MB</tspan></text>
   </g>
   <g
@@ -7172,7 +7171,7 @@
          y="20.704819"
          x="0.29311821"
          id="tspan2172-1"
-         sodipodi:role="line">2020-09-16 v5</tspan></text>
+         sodipodi:role="line">2020-09-19 v6</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.6px;line-height:1.25;font-family:Overpass;-inkscape-font-specification:'Overpass, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;display:inline;stroke-width:0.0264583"
